@@ -5,7 +5,7 @@ Este repositório contém a análise exploratória de dados (EDA) desenvolvida p
 ## 📁 Conteúdo do Repositório
 
 - `Untitled3.ipynb`: Notebook com todo o processo de análise, incluindo tratamento de dados, geração de gráficos e extração de insights.
-- `Relatorio_StartFlix.pdf`: Relatório final com visualizações aprimoradas, análises detalhadas e recomendações estratégicas.
+- `Relatório Final de Análise de Dados.pdf`: Relatório final com visualizações aprimoradas, análises detalhadas e recomendações estratégicas.
 - `imagens/`: Pasta contendo os gráficos utilizados no relatório e no notebook.
 - `README.md`: Documento explicativo do projeto (este arquivo).
 
