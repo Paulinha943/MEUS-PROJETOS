@@ -6,7 +6,12 @@ Este repositório contém a análise exploratória de dados (EDA) desenvolvida p
 
 - `Untitled3.ipynb`: Notebook com todo o processo de análise, incluindo tratamento de dados, geração de gráficos e extração de insights.
 - `Relatório Final de Análise de Dados.pdf`: Relatório final com visualizações aprimoradas, análises detalhadas e recomendações estratégicas.
-- `imagens/`: Pasta contendo os gráficos utilizados no relatório e no notebook.
+- `download (1).png/`: Gráficos utilizado no relatório e no notebook.
+- `download (2).png/`: Gráficos utilizado no relatório e no notebook.
+- `download (3).png/`: Gráficos utilizado no relatório e no notebook.
+- `download (4).png/`: Gráficos utilizado no relatório e no notebook.
+- `download (5).png/`: Gráficos utilizado no relatório e no notebook.
+- `download (6).png/`: Gráficos utilizado no relatório e no notebook.
 - `README.md`: Documento explicativo do projeto (este arquivo).
 
 ---
